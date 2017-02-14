@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Briefly"
+    url: /
+  - title: "Software Engineer"
+    url: /resume-engineer/
+  - title: "Manager"
+    url: /resume-manager/
+  - title: "Space Nerd"
+    url: /resume-space/
