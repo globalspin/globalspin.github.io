@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: "A Brief History"
+title: "Software Engineer"
 ---
 
-I lead thoughtful, accountable engineering teams to build hard-working systems that move mountains of data to improve people’s lives. I enjoy designing, implementing, revising, and beating the ever-loving heck out of production software, and guiding other engineers toward a passion for doing the same. 
+For over a decade I've built hard-working systems that move mountains of data to improve people’s lives. I enjoy designing, implementing, revising, and beating the ever-loving heck out of production software. 
 
 ## Experience
 
@@ -27,3 +27,4 @@ June 2005 – October 2011
 Engineers on team: 8; Engineers at company: 15
 
 I built the Eventful API in Perl, Postgres, and memcached on Linux, and designed and developed a data export system for Eventful partners that drove millions of dollars in yearly revenue for the company. I represented the company at developer conferences and on technical sales calls.
+
