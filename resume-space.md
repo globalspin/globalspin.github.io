@@ -8,13 +8,13 @@ Space exploration is my other passion.
 
 ## History
 
-Executive Director – SpaceUp Foundation
-July 2011 - May 2016
+**Executive Director** – SpaceUp Foundation  
+_July 2011 - May 2016_
 
 Set up the Foundation to address the organizational needs of the growing SpaceUp unconference community. Developed a business plan for the organization, hired initial staff, and recruited the first Board of Directors.
 
-Secretary / Chief Thingmaker – San Diego Space Society
-January 2008 - September 2011
+**Secretary / Chief Thingmaker** – San Diego Space Society  
+_January 2008 - September 2011_
 
 As a founding member, developed the organization, social media, communications, and voting procedures. Created high-profile projects like SpaceUp and the Space Travelers Emporium. Developed technical infrastructure for the group, including the website, email, Facebook and Twitter presence.
 
