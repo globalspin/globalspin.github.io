@@ -65,3 +65,5 @@ At a time when Perl was at its web-programming apex but most web applications re
 
 The book was based on all-day tutorials I gave at the Web99 and Web2000 conferences, developed while working at Velocigen. It was eventually [translated for the China market](http://www.educity.cn/book/book55756.html) and remained a staple on O'Reilly's Safari services for nearly a decade.
 
+Need something printable? Try a [two-page PDF version](/assets/pdfs/Chris-Radcliff-engineer-resume.pdf) of this resume, or the [one-page brief version](/assets/pdfs/Chris-Radcliff-resume-mini.pdf).
+

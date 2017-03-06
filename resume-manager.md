@@ -47,3 +47,6 @@ As a senior engineer, I designed a data export system for Eventful partners that
 
 > "Chris is simply amazing. His incredible technical prowess is matched by his calm, diplomatic, and super-productive handling of anything that comes his way."  
 > — [Theresa O'Connor](https://www.linkedin.com/in/hober/), Senior Software Engineer at Eventful
+
+Need something printable? Try a [two-page PDF version](/assets/pdfs/Chris-Radcliff-manager-resume.pdf) of this resume, or the [one-page brief version](/assets/pdfs/Chris-Radcliff-resume-mini.pdf).
+

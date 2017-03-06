@@ -32,7 +32,7 @@ There's more to tell about my experience as a [software engineer](/resume-engine
 Need something printable? Try one of these:
 
 * [Brief history](/assets/pdfs/Chris-Radcliff-resume-mini.pdf) (one-page PDF)
-* Management-focused resume (two-page PDF)
-* Engineering-focused (IC) resume (two-page PDF)
+* [Management-focused resume](/assets/pdfs/Chris-Radcliff-manager-resume.pdf) (two-page PDF)
+* [Engineering-focused (IC) resume](/assets/pdfs/Chris-Radcliff-engineer-resume.pdf) (two-page PDF)
 
 
