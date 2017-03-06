@@ -24,3 +24,15 @@ Leading a small team, I designed and built SaaS applications and social-data API
 _June 2005 – October 2011_
 
 I built the Eventful API in Perl, Postgres, and memcached on Linux, and designed and developed a data export system for Eventful partners that drove millions of dollars in yearly revenue for the company. I represented the company at developer conferences and on technical sales calls.
+
+## More
+
+There's more to tell about my experience as a [software engineer](/resume-engineer/), an [engineering manager](/resume-manager/), and even my side projects in [space exploration](/resume-space/).
+
+Need something printable? Try one of these:
+
+* [Brief history](/assets/pdfs/Chris-Radcliff-resume-mini.pdf) (one-page PDF)
+* Management-focused resume (two-page PDF)
+* Engineering-focused (IC) resume (two-page PDF)
+
+
